@@ -1,0 +1,22 @@
+Vous mettrez en place une application qui permet de créer des glaces à l'aide du Design Pattern Builder. Implémenter également la méthode __toString() qui renvoie le nom de glace et son prix.
+
+La création de glace permet d'ajouter des options comme le parfum, ainsi que des suppléments caramel ou chocolat et le type de cornet.
+
+L'ajout des options fait varier le prix de la glace.
+
+    Prix des cornets :
+        Classic => 5 €
+        Gauffre => 6 €
+        Pot => 4 €
+    Nombre de boule dans le cornet :
+        1 boule => 0 €
+        2 boules => 2 €
+        3 boules => 4 €
+        4 boules => 6 €
+    Suppléments :
+        Chocolat => 2 €
+        Fraise => 2 €
+        Framboise => 2 €
+        Caramel => 2 €
+        Noix => 3 €
+        Speculos => 3 €
